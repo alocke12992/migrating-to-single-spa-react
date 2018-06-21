@@ -6537,6 +6537,14 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
 
+single-spa-react@^2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/single-spa-react/-/single-spa-react-2.6.0.tgz#303b50b27fd735a3fa8b1c4100c82aa6818743ec"
+
+single-spa@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/single-spa/-/single-spa-4.0.0.tgz#9e58df83dd3335614fecbf6a656ce964abede152"
+
 slash@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
